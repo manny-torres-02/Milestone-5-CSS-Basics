@@ -1,0 +1,36 @@
+body {
+ background-color: #ffff99;
+
+}
+
+h1 {
+  color: #ff6600; 
+  border: solid #ff6600 3px;
+  padding: 5px;
+  font-family: 'Impact';
+  font-size: 2.5em;
+}
+
+h2 {
+ background-color:#ff6600;
+ color:#ffff99;
+ padding:10px;
+ padding-top:15px;
+ font-family: 'Courier New';
+}
+
+ol {
+background-color: #ffcc00;
+
+}
+
+li {
+color: #ffff99;
+font-family:"Helvetica";
+padding:10px;
+}
+
+p {
+ border: dotted 3px  #ffcc00;
+ padding:5px;
+}
